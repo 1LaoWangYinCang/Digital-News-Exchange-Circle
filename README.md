@@ -1,16 +1,17 @@
-# JiSuTiYu
-JiSuTiYu is an app for booking sports racing venues.
+# LeTianTang Sports
 
-- Our APP is dedicated to promoting high-end, atmospheric and professional sports racing venues in Chengdu, so that people can efficiently and high-quality book their favorite sports racing venues in daily life.
+LeTianTang Sports is a shopping mall for the purchase of ball sports equipment. Sports fans can find various professional and high-quality ball sports equipment on our app.
 
-- The sports racing venues we have launched are high-end, professional and full of sports competitive atmosphere. We have demonstrated a variety of sports racing venues, including skiing venues, roller skating venues, go-kart clubs, mountain bike clubs, racing racecourse and other sports racing venues. A full range of venues can be selected and booked.
+- Our app is dedicated to promoting professional and high-quality ball games equipment, so that people can efficiently buy the best ball games equipment in their daily life.
 
-- Our app has a very detailed classification of these sports racing venues to help users quickly find the sports racing venues they want to book.
+- Our app displays a full range of ball sports equipment, including basketball, basketball frame, jersey, bag, golf ball, golf club, baseball, baseball protective gear, volleyball, sports protective gear and other ball sports equipment. These kinds of complete ball games equipment can meet the user's choice and purchase.
 
-- Our app will introduce each venue in detail, so that you can fully understand these venues and find your favorite racing events, so that you can book an order.
+- Our app has classified these ball sports equipment in great detail, which helps users to easily and quickly find the ball sports equipment they want to buy.
 
-- Our app also has the function of collecting sports racing venues. You can add your favorite racing places to the favorites list for your next booking.
+- Our app also introduces each product in detail, so that you can fully understand these products, find the ball games equipment you like, and facilitate you to purchase and place orders.
 
-JiSuTiYu allows you to quickly book sports venues and enjoy the fun of speed.
+- Our app also has the commodity collection function, which can collect your favorite ball sports equipment into the collection list, so that you can browse and place orders next time. At the same time, our app also has the function of commodity sharing, sharing the ball sports equipment that you think is worth buying to others.
 
-If you have any questions, please contact us as follows :wrueteh1476@sina.com:
+Control the entire court from the good ball games equipment start!
+
+If you have any questions, please contact us as follows :w1113096582@163.com
