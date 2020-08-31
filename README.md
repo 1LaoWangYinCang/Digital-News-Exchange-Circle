@@ -1,15 +1,13 @@
-# JieBao Sports
+# m6MiLe
 
-Jiebao Sports is committed to promoting professional and high-quality ball sports equipment, so that people can efficiently buy the best ball sports equipment in their daily life. Our app is a shopping mall for ball sports equipment. Sports fans can find a variety of professional and high-quality ball sports equipment on our app.
+m6MiLe is a shopping mall for sports and fitness supplies. It is committed to promoting professional and high-quality sports and fitness supplies, so that people can efficiently buy the best sports and fitness supplies in their daily life.
 
-- Our app displays a full range of ball sports equipment, including basketball, jerseys, bags, golf, baseball, baseball protective gear, volleyball and other ball sports equipment. These kinds of complete ball games equipment can meet the user's choice and purchase.
+- Our app displays a full range of sports and fitness supplies, including running equipment, swimming equipment, yoga supplies, fitness supplies, exercise bags, exercise clothes, fitness equipment and other sports and fitness supplies. These categories of complete sports and fitness supplies can meet the user's choice and purchase.
 
-- Our APP has classified these ball sports equipment in great detail, which helps users to easily and quickly find the ball sports equipment they want to buy.
+- Our app has classified these sports and fitness products in great detail, which helps users to easily and quickly find the sports and fitness products they want to buy.
 
-- Our APP also introduces each product in detail, so that you can fully understand these products, find the ball games equipment you like, and facilitate you to purchase and place orders.
+- Our APP also introduces each product in detail, so that you can fully understand these products, find your favorite sports and fitness supplies, so that you can purchase and place orders.
 
-- Our app also has the commodity collection function, which can collect your favorite ball sports equipment into the collection list, so that you can browse and place orders next time.
+- Our app also has the commodity collection function, which allows you to collect your favorite sports and fitness supplies into the collection list, so that you can browse and place orders next time.
 
-Play youdao, enjoy sports and chase the ball with heart.
-
-If you have any questions, please contact us as follows :w1113096582@163.com
+If you have any questions, please contact us as follows : chu83861niao@163.com
