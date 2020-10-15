@@ -1,17 +1,13 @@
-# ReJingJi
+# JiBiFenDaKa
 
-ReJingJi is a purchase mall of esports peripheral equipment, which is dedicated to promoting professional and high-quality peripheral products, so that people can efficiently buy the best esports peripheral equipment in their daily lives.
+JiBiFenDaKa is dedicated to promoting professional and high-quality swimming equipment, so that people can efficiently buy the best swimming equipment in daily life, and also can quickly and conveniently record the score and the scene of each race, is your intimate assistant to record the score.
 
-- Our APP shows a full range of esports peripherals, including mouse, keyboard, headset and a three-piece set of peripherals. These categories of complete peripheral gaming equipment can meet the selection and purchase of users.
+Our app is an app to buy swimming equipment and record swimming competitions. Our app shows a full range of swimming equipment, including swimsuits, swimming caps, goggles, swim fins, lifesaving equipment and other swimming equipment. These categories of complete swimming equipment can meet the user's choice and purchase. Our app classifies these swimming equipment in detail, so that users can easily and quickly find the swimming equipment they want to buy.
 
-- Our APP has classified these esports peripherals in great detail, which helps users to easily and quickly find the esports peripherals they want to buy.
+Our app also introduces the score recording function. You can record your every swimming match on the score page, record the scene situation and score record at that time, and share the joy of victory and the game to others.
 
-- Our APP also introduces each product in detail, so that you can fully understand these products and find your favorite esports peripheral equipment, so that you can purchase and place orders.
+Our app also has the commodity collection function. You can add your favorite swimming equipment to the collection list for your next browsing and placing orders.
 
-- Our app also has the commodity collection function, which allows you to collect your favorite esports peripheral equipment into the collection list, so that you can browse and place orders next time.
+Professional swimming equipment allows you to dominate!
 
-- Our app also offers a coupon function, allowing you to buy the most professional esports peripheral equipment at the most favorable price.
-
-Cool peripheral equipment to help you eat chicken super God!
-
-If you have any questions, please contact us as follows : chu83861niao@163.com
+If you have any questions, please contact us as follows : jif6144@163.com
